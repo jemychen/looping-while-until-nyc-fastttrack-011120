@@ -7,4 +7,4 @@ def using_while
 	puts 'Wingardium Leviosa'
 end
 
-
+using_while
